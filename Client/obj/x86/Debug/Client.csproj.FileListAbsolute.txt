@@ -1,0 +1,67 @@
+C:\Users\Administrator\Desktop\大项目5 - 副本\ComicMaker\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\大项目5 - 副本\ComicMaker\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Administrator\Desktop\大项目5 - 副本\ComicMaker\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\大项目5 - 副本\ComicMaker\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\大项目5 - 副本\ComicMaker\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\Administrator\Desktop\大项目5 - 副本\ComicMaker\Client\bin\Debug\Client.exe
+C:\Users\Administrator\Desktop\大项目5 - 副本\ComicMaker\Client\bin\Debug\Client.pdb
+C:\Users\Administrator\Desktop\大项目5 - 副本\ComicMaker\Client\bin\Debug\ComicMaker.exe
+C:\Users\Administrator\Desktop\大项目5 - 副本\ComicMaker\Client\bin\Debug\ComicMaker.pdb
+C:\Users\Administrator\Desktop\大项目5 - 副本\ComicMaker\Client\obj\x86\Debug\Client.exe
+C:\Users\Administrator\Desktop\大项目5 - 副本\ComicMaker\Client\obj\x86\Debug\Client.pdb
+H:\大项目6\ComicMaker\Client\obj\x86\Debug\Client.exe
+H:\大项目6\ComicMaker\Client\obj\x86\Debug\Client.pdb
+E:\c#\大项目6\ComicMaker\Client\obj\x86\Debug\Client.exe
+E:\c#\大项目6\ComicMaker\Client\obj\x86\Debug\Client.pdb
+E:\c#\大项目6\ComicMaker\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\c#\大项目6\ComicMaker\Client\obj\x86\Debug\Client.Form1.resources
+E:\c#\大项目6\ComicMaker\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\c#\大项目6\ComicMaker\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\c#\大项目6\ComicMaker\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\c#\大项目6\ComicMaker\Client\bin\Debug\Client.exe
+E:\c#\大项目6\ComicMaker\Client\bin\Debug\Client.pdb
+E:\c#\大项目6\ComicMaker\Client\bin\Debug\ComicMaker.exe
+E:\c#\大项目6\ComicMaker\Client\bin\Debug\ComicMaker.pdb
+D:\大项目7\ComicMaker\Client\obj\x86\Debug\Client.exe
+D:\大项目7\ComicMaker\Client\obj\x86\Debug\Client.pdb
+D:\大项目7\ComicMaker\Client\bin\Debug\Client.exe
+D:\大项目7\ComicMaker\Client\bin\Debug\Client.pdb
+D:\大项目7\ComicMaker\Client\bin\Debug\ComicMaker.exe
+D:\大项目7\ComicMaker\Client\bin\Debug\ComicMaker.pdb
+D:\大项目7\ComicMaker\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\大项目7\ComicMaker\Client\obj\x86\Debug\Client.Form1.resources
+D:\大项目7\ComicMaker\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\大项目7\ComicMaker\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\大项目7\ComicMaker\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\c#\大项目7\ComicMaker\Client\obj\x86\Debug\Client.exe
+E:\c#\大项目7\ComicMaker\Client\obj\x86\Debug\Client.pdb
+E:\c#\大项目7\ComicMaker\Client\bin\Debug\Client.exe
+E:\c#\大项目7\ComicMaker\Client\bin\Debug\Client.pdb
+E:\c#\大项目7\ComicMaker\Client\bin\Debug\ComicMaker.exe
+E:\c#\大项目7\ComicMaker\Client\bin\Debug\ComicMaker.pdb
+E:\c#\大项目7\ComicMaker\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\c#\大项目7\ComicMaker\Client\obj\x86\Debug\Client.Form1.resources
+E:\c#\大项目7\ComicMaker\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\c#\大项目7\ComicMaker\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\c#\大项目7\ComicMaker\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\大项目\大项目8\ComicMaker\Client\obj\x86\Debug\Client.exe
+D:\大项目\大项目8\ComicMaker\Client\obj\x86\Debug\Client.pdb
+D:\大项目\大项目8\ComicMaker\Client\bin\Debug\Client.exe
+D:\大项目\大项目8\ComicMaker\Client\bin\Debug\Client.pdb
+D:\大项目\大项目8\ComicMaker\Client\bin\Debug\ComicMaker.exe
+D:\大项目\大项目8\ComicMaker\Client\bin\Debug\ComicMaker.pdb
+D:\大项目\大项目8\ComicMaker\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\大项目\大项目8\ComicMaker\Client\obj\x86\Debug\Client.Form1.resources
+D:\大项目\大项目8\ComicMaker\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\大项目\大项目8\ComicMaker\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\大项目\大项目8\ComicMaker\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\课件\大项目\大项目8\ComicMaker\Client\bin\Debug\Client.exe
+E:\课件\大项目\大项目8\ComicMaker\Client\bin\Debug\Client.pdb
+E:\课件\大项目\大项目8\ComicMaker\Client\bin\Debug\ComicMaker.exe
+E:\课件\大项目\大项目8\ComicMaker\Client\bin\Debug\ComicMaker.pdb
+E:\课件\大项目\大项目8\ComicMaker\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+E:\课件\大项目\大项目8\ComicMaker\Client\obj\x86\Debug\Client.Form1.resources
+E:\课件\大项目\大项目8\ComicMaker\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\课件\大项目\大项目8\ComicMaker\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+E:\课件\大项目\大项目8\ComicMaker\Client\obj\x86\Debug\Client.exe
+E:\课件\大项目\大项目8\ComicMaker\Client\obj\x86\Debug\Client.pdb
